@@ -1,0 +1,103 @@
+COMPANY_NAME,TYPE,SUB TYPE,NAME,HEIGHT,WIDTH,LENGTH,WEIGHT,WHEELBASE,ENGLINE,DISPLACEMENT,GROUND_CLEARANCE,BOOT_SPACE
+maruti suzuki,subcompact car,,Swift (AOL - 4th Gen),150,174,386,949,245,1.2,1197,16.3,265
+maruti suzuki,hatchback car,,Wagon R,167.5,162,365.5,845,243.5,1.2,1197,17,341
+maruti suzuki,SUV,,Brezza,168.5,179,399.5,1210,250,1.5,1462,19.8,328
+maruti suzuki,hatchback car,,Ignis,159.5,169,370,850,243.5,1.2,1197,18,260
+maruti suzuki,hatchback car,,Alto K10,152,149,353,765,238,1,998,16.7,214
+maruti suzuki,hatchback car,,S-Presso,155.3,152,356.5,750,238,1,998,18,250
+maruti suzuki,SUV,compact,Fronx,155,176.5,399.5,940,252,1.2,1197,19,308
+maruti suzuki,SUV,off road,Jimny,172,164.4,389.5,1150,259,1.5,1462,21,208
+hyundai,SUV,,Venue,166.5,177,399.6,1200,258,1.2,1197,18,375
+hyundai,SUV,,Creta,163.5,179,433,1265,261,1.5,1493,19,433
+hyundai,hatchback car,,i20,150.5,177.5,399.5,1066,258,1.2,1197,17,311
+hyundai,SUV,,Alcazar,171,180,456,1485,276,1.5,1493,20,180
+tata motors,SUV,,Nexon,162,180.4,399.5,1346,249.8,1.5,1497,20.8,382
+tata motors,SUV,compact,Punch,161.5,174.2,382.7,1020,244.5,1.2,1199,18.7,366
+tata motors,SUV,,Harrier,171.8,192.2,460.5,1710,274.1,2,1956,20.5,445
+tata motors,SUV,large,Safari,179.5,189.4,466.8,1825,274.1,2,1956,21,420
+tata motors,hatchback car,,Altroz,152.3,175.5,399,1055,250.1,1.2,1199,16.5,345
+kia motors,SUV,,Seltos,164.5,180,436.5,1300,261,1.5,1493,20,435
+kia motors,SUV,,Sonet,164.2,179,399.5,1287,250,1.2,1197,19,385
+toyota,hatchback car,,Glanza,170,169.5,399.5,985,252,1.2,1197,17,318
+toyota,SUV,subcompact,Urban Cruiser Taisor,155,176.5,399.5,1060,252,1.2,1197,19,308
+toyota,SUV,,Ubran Cruiser Hyryder,170,179,399.5,1450,252,1.5,1490,19,373
+toyota,MPV,,Innova Hycross,179.5,185,475.5,1730,285,2,1987,18.5,300
+toyota,MPV,,Rumion,169,173.5,442,1200,274,1.5,1462,18.5,209
+toyota,MPV,,Innova Crysta,179.5,183,473.5,1730,275,2.4,2393,17.8,300
+toyota,SUV,pickup,Hilux,181.5,185.5,532.5,2100,308.5,2.8,2755,21.6,
+toyota,MPV,luxury,Vellfire,193.5,185,493.5,2100,300,2.5,2487,17.5,550
+honda,Sedan,,City,149.1,174,454.3,1150,260,1.5,1498,16.5,506
+honda,Sedan,,Amaze,155,169.3,399.5,1040,247,1.2,1199,14.8,420
+honda,SUV,compact,Elevate,163.5,177,429.5,1170,260.5,1.5,1498,18,458
+honda,SUV,compact,WR-V,160.5,177.4,399.6,1100,253,1.2,1199,17.5,363
+mahindra,SUV,,XUV700,175,189,469.5,1765,275,2,1997,19,350
+mahindra,SUV,off road,Thar,183.5,185,398.5,1850,245,2,1997,19.5,
+mahindra,SUV,,Scorpio-N,185,191.8,470,1885,275,2,1997,20,470
+mahindra,SUV,,XUV300,164,177.5,399.5,1200,260,1.2,1198,18,257
+volkswagen,SUV,,Taigun,161.2,176,422.1,1195,265.1,1,999,18.3,385
+volkswagen,Sedan,,Virtus,148,176,444,1218,265.1,1,999,16.1,521
+volkswagen,hatchback car,,Polo,146.3,168.2,399.2,1072,246.9,1,999,16.5,351
+volkswagen,SUV,,Tiguan Allspace,167.5,183.9,450.8,1590,267.7,2,1984,19.2,615
+mg motor,SUV,,Hector,176.2,183.5,465,1700,275,1.5,1451,20.1,587
+mg motor,SUV,,Astor,164.5,189,445.5,1500,265.5,1.5,1498,18.9,448
+mg motor,SUV,EV,ZS EV,163.5,180.9,431.9,1685,258.5,,,17.8,359
+mg motor,EV,EV,Comet EV,149,164.8,269.5,610,172,,,18,
+tata motors,SUV,EV,Nexon EV,160.6,181.1,399.3,1480,249.8,,,19,350
+mg motor,Electric CUV,EV,Windsor EV,167.7,185,429.5,1685,270,,,18.6,604
+tata motors,hatchback car,EV,Tiago EV,153.6,167.7,376.9,1245,240,,,16.5,240
+tata motors,Sedan,EV,Tigor EV,153.2,167.7,399.2,1250,245,,,17.2,316
+mahindra,SUV,EV,XUV 3XO EV,161.7,182.1,390,1550,250,,,18.3,364
+byd,SUV,EV,Atto 3,159,187,444.5,1900,272,,,19,430
+hyundai,CUV,EV,IONIQ 5,162.5,189,463.5,2050,300,,,16.3,531
+mahindra,SUV,EV,BE 6,170,190,460,2150,280,,,19,
+mahindra,SUV,EV,XEV 9e,170,190,460,2200,280,,,19,
+Citroen,hatchback car,EV,eC3,153,167.7,376.9,1250,254,,,16.5,240
+renault,hatchback car,,Kwid,147.5,157.9,367.9,750,242.2,0.8,799,18,279
+renault,MPV,7 seater,Triber,165,173.9,399.1,900,263.6,1,999,18,84
+renault,SUV,,Duster,169,182,431.5,1300,267.3,1.5,1461,21,475
+renault,SUV,,Captur,163.5,182,433.5,1300,267.3,1.3,1332,20.5,387
+mini,convertible,,Cooper S Convertible,143.1,174.4,387.9,741,249.5,2,1998,15,215
+jaguar,Sports car,,F-type,130.8,192.3,447,1594,262.2,5,5000,10,310
+Mercedes-Benz,Sporty Sedan,,CLA-Class,143.2,177.7,463,1570,269.9,2,1991,16,470
+ford,Sports car,,Mustang GT,138.4,191.6,478.4,1730,271.8,5,4951,13.5,408
+toyota,SUV,full size,Fortuner,183.7,185,479.5,2270,274.5,2.7,2694,22,311
+chevrolet,Sports Coupe,,Camero,134.1,191.7,478.4,1700,281.9,2,1998,12.5,257
+subaru,Crossover Wagon,,Outback,167.6,191,487.7,1740,274.7,2.5,2457,22.9,512
+mahindra,SUV,large,Scorpio Classic,199.5,182,445.6,2100,268,2.2,2184,20.9,
+maruti suzuki,MPV,premium,XL6,175.5,178,445,1250,274,1.5,1462,18,
+tata motors,SUV,crossover,Curvv,163,181,430.8,1450,256,1.2,1199,20.8,500
+maruti suzuki,hatchback car,premium,Baleno,149,174.5,399.5,1000,252,1.2,1197,16.7,335
+jeep,off road,4x4,Wrangler,186.8,189.4,488.2,1990,300.8,2,1995,25.2,898
+BMW,Sedan,luxury,7 Series,154.4,195,539.1,1940,321.5,3,2998,15.2,515
+mazda,roadster,,MX-5,123.5,173.5,391.5,1060,231,2,1998,13.5,130
+BMW,Sedan,compact,2 series gran coupe,142,180,452.6,1450,267,2,1998,15.2,430
+BMW,Sedan,,3 series,144,182.7,471.3,1670,285.1,2,1998,13,480
+BMW,Sedan,luxury,5 series,146.6,186.8,493.6,1845,297.5,2,1998,15,530
+BMW,SUV,,X5,176.5,200.4,493.5,2200,297.5,3,2998,21.4,650
+audi,Sedan,compact,A3,140.9,174,402.9,1125,256.3,2,1998,13.6,335
+audi,Sedan,executive,A4,143.3,184.1,472.1,1645,280.8,2,1984,15.5,470
+audi,Sedan,luxury executive,A6,147,188.6,4939,1750,293,2,1984,15,530
+audi,Sedan,Flagship premium,A8,148.8,194.5,532,2165,312.8,3,3000,14.4,354
+audi,SUV,compact,Q3,160.8,183.1,438.8,1590,260.3,2,1968,17,460
+audi,SUV,,Q5,162.4,191.1,464.4,1820,282.5,2,1984,20,550
+audi,SUV,large,Q7,174,196.8,505.2,2240,299.4,2,1984,20,295
+skoda,Sedan,compact,Rapit,146.1,170.6,441.3,1130,255.3,1,999,16.3,460
+skoda,Sedan,luxury,Superb,146.8,186.4,486.9,1550,284.1,2,1984,15.6,625
+skoda,Sedan,executive,Octavia,146.5,182.9,468.9,1400,268.6,2,1984,15.5,590
+skoda,hatchback car,,Fabia,146.7,173.2,399.2,1050,256.4,1,999,13.5,330
+skoda,SUV,compact,Kamiq,155.3,179.3,424.1,1220,265.1,1,999,18.8,400
+skoda,MPV,,Roomster,160.7,168.4,420.5,1200,260.8,1.2,1198,14,450
+Mercedes-Benz,hatchback car,premium,A-class,143.3,179.6,441.9,1400,272.9,2,1991,14,370
+Mercedes-Benz,Sedan,luxury,C-class,143.7,182,475.1,1550,286.5,1.5,1497,15.7,455
+Mercedes-Benz,Sedan,executive,E-class,146.8,185.2,493.5,1680,293.9,2,1993,15,540
+Mercedes-Benz,Sedan,flagship,S-class,150.3,195.4,528.9,1950,321.6,3,2925,13,550
+Mercedes-Benz,SUV,compact,GLA,161.1,183.4,441,1500,272.9,2,1991,17,435
+Mercedes-Benz,SUV,mid size,GLC,164,189,471.6,1750,287.3,2,1991,18.1,550
+Mercedes-Benz,off road,4x4,G-class,196.6,193.1,466.2,2450,289,4,3982,24.1,667
+land rover,SUV,full size luxury,Range rover,187,220.9,525.8,2400,319.7,3,2998,21.9,818
+land rover,SUV,luxury,Range rover sport,182,204.7,494.6,2200,299.7,2,1997,21,835
+land rover,SUV,mid size luxury,range rover velar,162.3,203.2,480.3,1850,287.4,2,1997,19,632
+land rover,SUV,compact luxury,range rover evoque,164,198,437.1,1700,268,2,1997,21.2,591
+land rover,SUV,premium,discovery sport,172.7,206.9,459.7,1850,274.1,2,1997,16.7,212
+land rover,SUV,full size,discovery,188.8,222,495.6,2509,298,3,2997,21,850
+land rover,SUV,off road,defender 110,196.7,199.6,501.8,2133,302.2,2,2000,22.6,680
